@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1RD2ne8sf-O5pAQH-0no5U9emGwDrq7eV
 """
 
-a=5
-b=4
-c=6
-x=4.5
+a=float(input("enter a:3"))
+b=float(input("enter b:"))
+c=float(input("enter c:"))
+x=float(input("enter x:"))
 y=a*x*x+b*x+c
 print(y)
